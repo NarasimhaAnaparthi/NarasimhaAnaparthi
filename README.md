@@ -3,7 +3,7 @@
 🚀 **Senior Development Engineer** | **Frontend Specialist** | **React & Next.js Enthusiast**
 
 ### 👨‍💻 About Me  
-- 💻 **Frontend Developer** with **2+ years** of experience in building scalable web applications.  
+- 💻 **Frontend Developer** with **3 years** of experience in building scalable web applications.  
 - 🔥 Proficient in **React.js, Next.js, Vite.js, and modern UI libraries** (Material UI, AntD).  
 - ⚡ Passionate about **performance optimization, UI animations (GSAP), and AI-powered UI enhancements**.  
 - 🌍 Looking for **remote opportunities in product-based companies**.  
